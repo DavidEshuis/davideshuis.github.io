@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>David Eshuis - About Me</title>
+		<title>David Eshuis - Digital Art</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -27,10 +27,10 @@
 					<nav id="nav">
 						<ul class="links">
 							<li><a href="index.html">Games</a></li>
-							<li><a href="digitalart.html">Digital Art</a></li>
+							<li class="active"><a href="digitalart.html">Digital Art</a></li>
 							<li><a href="art.html">Traditional Art</a></li>
 							<li><a href="music.html">Music</a></li>
-							<li class="active"><a href="aboutme.html">About Me</a></li>
+							<li><a href="aboutme.html">About Me</a></li>
 						</ul>
 						<ul class="icons">
 							<li><a href="https://www.linkedin.com/in/david-eshuis-730a6a157/" target="_blank" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
@@ -42,18 +42,73 @@
 				<!-- Main -->
 					<div id="main">
 
-						<!-- Post -->
+					<!-- Post -->
 							<section class="post">
 								<header class="major">
-									<h1>About Me</h1>
-								</header>
-								<p><span class="image left"><img src="images/davideshuis.png" alt="" /></span>Hello, I'm David Eshuis! I'm passionate about all things game development and digital media creation. 
-								I've developed and released mulitple games on various platforms including Google Play, App Store, and Steam. I've also worked with clients to deliver digital art commissions, 
-								including branding graphics, Twitch profile themes, and YouTube thumbnail images. I have over 5 years of experience programming with C# in Unity, as well as asset creation including 3D modeling, 
-								texturing, shaders, music, sound effects, and more. My goal is to dive deeper into the game development industry and one day start my own indie game studio. I've released 
-								my first commercial game project, Tank Quest, on Steam, so I am familiar with key aspects of delivering a complete and polished game product.</p>
-								<p>In my spare time I enjoy hiking, traditional art, playing and developing video games, and watching movies with my friends!</p>
+									<h1>Environment Art</h1>
+									<p>Some naturey 3D models to sooth your soul.</p>
 							</section>
+
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+										<h2>Maple Trees</h2>
+									</header>
+									<span class="image fit"><img src="images/env_art_mapletrees.png" alt="" /></span>
+									<p>The dense leaves were achieved by assigning each polygon on the mesh to the whole UV space and then billboarding the leaf texture on each one.</p>
+								</article>
+								<article>
+									<header>
+										<h2>Pine Trees</h2>
+									</header>
+									<span class="image fit"><img src="images/env_art_pinetrees.png" alt="" /></span>
+									<p>The pine trees are inspired from various species I observed during my time living in North Carolina.</p>
+								</article>
+								<article>
+									<header>
+										<h2>Rocks</h2>
+									</header>
+									<span class="image fit"><img src="images/env_art_rocks.png" alt="" /></span>
+									<p>These rocks use an edge detection shader that help give it more defined edges.</p>
+								</article>
+								<article>
+									<header>
+										<h2>Bushes</h2>
+									</header>
+									<span class="image fit"><img src="images/env_art_bushes.png" alt="" /></span>
+									<p>These bushes use the same technique as the maple trees, but have a softer texture and a lighter fresnel color to make them look puffier.</p>
+								</article>
+							</section>
+
+							<section class="post">
+								<header class="major">
+									<h1>Character Design</h1>
+									<p>Hacker bot creation process.</p>
+							</section>
+
+							<section class="posts">
+								<article>
+									<header>
+										<h2>3D Wireframe</h2>
+									</header>
+									<span class="image fit"><img src="images/hacker_turn_wire.gif" alt="" /></span>
+									<p>This model is optimized for use in a mobile game. It contains less than 5,000 triangles.</p>
+								</article>
+								<article>
+									<header>
+										<h2>UVs and Rigging</h2>
+									</header>
+									<span class="image fit"><img src="images/hacker_turn_UV_bones.gif" alt="" /></span>
+									<p>In order to maximize both performance and detail, UVs are mirrored across the X axis, and multiple fingers share a single rig bone.</p>
+								</article>
+								<article>
+									<header>
+										<h2>Final Model</h2>
+									</header>
+									<span class="image fit"><img src="images/hacker_turn_final.gif" alt="" /></span>
+									<p>With the texturing complete, the hacker bot model is ready to be imported into the game engine!</p>
+								</article>
 
 					</div>
 
