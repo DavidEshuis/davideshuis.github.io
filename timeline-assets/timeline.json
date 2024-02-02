@@ -1,0 +1,400 @@
+{
+  "events": [
+    {
+      "start": [2015, 10, 30],
+      "end": [],
+      "title": "Hammer maps",
+      "content": "<iframe src=\"https://www.youtube-nocookie.com/embed/hlEA_kgJ8Cs?si=gnE36moMdRc-LcoF\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<p>One of my very first attempts at expressing myself came in the form of maps made in the Hammer editor, for the Source engine. This was inspired by a single game: <a href=\"https://store.steampowered.com/app/303210/The_Beginners_Guide/\">The Beginner's Guide.</a> The story of that game struck the emotional teenager looking for purpose.\n<br>\nThe video in this section is my first map. I was trying to do some environmental story telling with this place - it's a barely habitable shack in the middle of nowhere. No armenities, just a lamp, fridge, some empty cans, and a chair in front of a political poster. Though I never considered how this place had electricity...\n<br>\nWhile there were some other maps, they were mostly copies of The Beginner's Guide, and no trace of them remains.</p>",
+      "tag": "gamedev",
+      "github": "",
+      "finished": -1
+    },
+    {
+      "start": [2018, 2, 10],
+      "end": [],
+      "title": "Lyric livestream edits",
+      "content": "<iframe src=\"https://www.youtube-nocookie.com/embed/_p2crm2rgG8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<iframe src=\"https://www.youtube-nocookie.com/embed/j_wwbP_ULEo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<p>Maybe a bit of a weird addition. I probably won't include many other videos, but these were important to me at the time. They were my first attempts at something after a very dark period in my life, as the timeline shows. While still not what I'd consider my start as a creative, they mark the start of who I would become today.\n<br>\nI shouldn't go into toooo much detail, but that community really shaped me. I found some of my first friends there, figured out who I wanted to be, and experienced more in a couple months than I had in the course of years.\n<br>\nThe videos aren't anything too interesting themselves. Just what they meant to me.</p>",
+      "tag": "misc",
+      "github": "",
+      "finished": -1
+    },
+    {
+      "start": [2018, 9, 11],
+      "end": [2019, 2, 25],
+      "title": "Rimworld mods",
+      "content": "<img src=\"/static/project_timeline/beautiful_water.png\">\n<p>RimWorld! One of my favourite games that I might never play again. But, it was my first foray into programming, of a sort. Mostly, it was working with XML files, but it gave me the foundation of what a game looks like inside.\n<br>\nMany of these mods were small tweaks that I or others wanted, ranging from <a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=1509237214\">removing an annoying debuff</a>, to <a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=1511713498\">changing the production of chocolate</a>, to <a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=1663954301\">making water visually attractive.</a>\n<br>\nI often worked with a friend called Oken during this, with him focusing on the art and me on the code.\n<br>\nThese mods and more are all <a href=\"https://steamcommunity.com/id/CrunchyDuck/myworkshopfiles/?appid=294100\">here</a>, on my steam workshop.</p>",
+      "tag": "modding",
+      "github": "",
+      "finished": 1
+    },
+    {
+      "start": [2018, 11, 6],
+      "end": [],
+      "title": "Osu!Mania map",
+      "content": "<iframe src=\"https://www.youtube-nocookie.com/embed/34Lpl2oOsHE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<p>Here's a fun one. One of the people in those Lyric livestream videos goes by the name Pikabata. Well, I had grown quite close to that person. I don't remember if we were dating at the time I was making this, but I know I wanted to do something for them.\n<br>\nThey're a musician, and they made a piano transcription of a song they liked. We both also played a rhythm game called Osu!Mania. So, I took his sheet music, I found a nice soundfont, and spent a couple weeks matching each note's sound up to said sheet music.\n<br>\n<br>\n<img src=\"/static/project_timeline/piano_samples.png\" alt=\"image of a long forgotten era of design\" class=\"float-beside-text-r\">\nIt was a very arduous process. I learned how to use regex so I could mass edit the sound effect volume, and had to record each sound individually.\n<br>\nLike most of my projects, by the time I was done with it, I was happy it was over.</p>",
+      "tag": "modding",
+      "github": "",
+      "finished": 1
+    },
+    {
+      "start": [2018, 12, 20],
+      "end": [2019, 2, 2],
+      "title": "The start of Gamemaker",
+      "content": "<img src=\"/static/project_timeline/gm_github.png\">\n<p>Developing games, finally... Kind of.\n<br>\nI had played another game that left a great impact on me, Deltarune. I enjoyed its characters, its world, its writing, its gameplay. I had awoken something in me. I realized I wanted to <i>be</i> something. I wanted to express my feelings. I realized that games were a great medium for that - I've played them my whole life, I have a lot to draw from.\n<br>\n<br>\nI knew Deltarune was made in Gamemaker, so I picked up its free trial and did some basic coding. I remade a bit of the combat and background.\n<iframe src=\"https://www.youtube-nocookie.com/embed/6njmo3gaN2Y\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<br>\nTruthfully, even though I was starting from nothing, I had hoped I could be hired by Toby Fox at this time. He made a posting that he was looking for people. I thought I could win him over with my unyielding passion, like in his stories. I... Didn't. But maybe I didn't need to.\n<br>\n<br>\nI had a fair few other small projects in game maker before I tried anything big, which you can see in the screenshot at the start here. None made it very far.</p>",
+      "tag": "gamedev",
+      "github": "",
+      "finished": -1
+    },
+    {
+      "start": [2019, 1, 15],
+      "end": [],
+      "title": "Fluid dynamics system",
+      "content": "<a href=\"/static/project_timeline/Zmap.gif\" target=\"_blank\"><img src=\"/static/project_timeline/Zmap.gif\"></a>\n<p>One of my more impressive game maker projects (for my ability).\n<br>\nI made a rudimentary fluid dynamics system too. I had the idea for a game. I wanted that game to be top down, similar in style to Hyper Light Drifter, and I wanted there to be blood that would flow from creatures and gather into pools and seep through cracks in stones and react to footprints. For this, I drew a lot of inspiration from a series called <a href=\"https://store.steampowered.com/app/280220/Creeper_World_3_Arc_Eternal/\">Creeper World.</a>\n<br>\nCan't find exact dates on when I was doing this, but I do have some scraps of its production. The gif at the start shows the sprites, then their z-levels. And here be diagrams of how it was supposed to work:\n<a href=\"/static/project_timeline/fds_1.jpg\" target=\"_blank\"><img src=\"/static/project_timeline/fds_1.jpg\"></a>\n<a href=\"/static/project_timeline/fds_2.jpg\" target=\"_blank\"><img src=\"/static/project_timeline/fds_2.jpg\"></a>\n<a href=\"/static/project_timeline/fds_3.jpg\" target=\"_blank\"><img src=\"/static/project_timeline/fds_3.jpg\"></a>\n<br>\nI did get it working... ssort of. But I was not a competent programmer at this point, and even a tiny grid of fluid simulation completely ran up my CPU. It is surely some of the single most ill performing code I've ever written.\n<br>\nThe idea might come back some day, but my style has shifted a bit away from brutality. Not entirely, though.</p>",
+      "tag": "gamedev",
+      "github": "",
+      "finished": 0
+    },
+    {
+      "start": [2019, 2, 2],
+      "end": [],
+      "title": "Replay system",
+      "content": "<iframe src=\"https://www.youtube-nocookie.com/embed/V6gIZC14rwM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<p>My first job! Sort of. It was very unofficial, I think the deal was like 50 pounds for me to implement a replay system. I'd already some practice with making systems so it was trival to do. Issue though: the guy I was doing it for was using a previous version of gamemaker. I couldn't afford it. I explained that, and instead tried to pass along all of my notes on how it works and can be implemented, along with the above video as proof.\n<br>\nThey were not pleased with this, and negotiations broke down quickly. I didn't care for the money anyway, and it was nice to get some experience out of it. Just a shame it ended how it did.</p>",
+      "tag": "gamedev",
+      "github": "",
+      "finished": -1
+    },
+    {
+      "start": [2019, 8, 23],
+      "end": [],
+      "title": "TF2 script",
+      "content": "<iframe src=\"https://www.youtube-nocookie.com/embed/cK1XyFY2IQg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<p>Really a footnote but I'm fond of this little thing. It's a script I made for TF2 that makes something in the spy class a little easier to do. I used to love the game.\n<br>\nIt's a mess and probably not very good, but people seemed to like it.</p>",
+      "tag": "modding",
+      "github": "",
+      "finished": 1
+    },
+    {
+      "start": [2020, 3, 2],
+      "end": [2020, 3, 28],
+      "title": "Pianoplay",
+      "content": "<iframe src=\"https://www.youtube-nocookie.com/embed/1s35Ga_2f3E\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<p>Now here is an important one for me. This project is where I started to consider myself a programmer. I'd done some stuff before and knew some principles, but it was never a real language. That changed with Pianoplay, where I learned Python.\n<br>\nSo, the gist is: You feed it a MIDI file, and my code parses it, and turns it into animation in blender. I designed it for a piano, but it could theoretically work for anything.\n<br>\n<br>\nI really liked the idea of Pianoplay, I think it does have some real use somewhere. Just... I'm not the guy to use it, and I didn't advertise it anywhere, or really do anything with it. Maybe sometime I'll fix it up and show it off.\nThis was the first project I made a writeup about too, here's that video:\n<iframe src=\"https://www.youtube-nocookie.com/embed/Pq2uL6G8hCw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<br>\nPianoplay also came at a very difficult part in my life. It was my first experience using a project to cope with my emotions, which would become an increasingly present behaviour.</p>",
+      "tag": "programming",
+      "github": "https://github.com/CrunchyDuck/pianoplay",
+      "finished": 1
+    },
+    {
+      "start": [2020, 4, 11],
+      "end": [],
+      "title": "3D Render compression",
+      "content": "<p><iframe src=\"https://www.youtube-nocookie.com/embed/yYdu-oQkxAw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<br>\nOff the back of Pianoplay I got quite in to animation, and was trying to continue to express myself through it. I was working on a music video for the song <a href=\"https://youtu.be/N2SW_MWBa6w\">Decay, by Home</a>.\n<br>\nDuring this I thought up a method that could speed up renders with non-changing parts dramatically. I made a small video about that, which is also the only remains of that music video:\n<br>\nThe video's a bit of a rambling mess and I don't know if I was insane or actually on to something there - probably the latter, smarter people than me are paid a lot of money to think about the speed of this stuff. There is a github for it, though I'm not looking through its code to figure out what it does.</p>",
+      "tag",: "programming",
+      "github": "https://github.com/CrunchyDuck/StretchRender",
+      "finished": 0
+    },
+    {
+      "start": [2020, 5, 3],
+      "end": [2020, 5, 24],
+      "title": "Starboundless Search",
+      "content": "<p><a href=\"/static/project_timeline/sls.png\" target=\"_blank\"><img src=\"/static/project_timeline/sls.png\"></a>\n<br>\nAnother ambitious project, this one would scan your files of the game Starbound and create a search engine of all of the objects and crafting recipes. I put this together because the crafting in that game is expansive, and the UI for it is miserable! The wiki isn't much better to use, and can't handle mods.\n<br>\nI got it pretty much working, albeit without UI. Current day me certainly could have finished it, but back then it was quite a grind, and once I started to lose opinion of the Starbound community, I lost motivation to work on it.\n<br>\nSo, another project that suffered from not being released. Maybe I'll come back and finish this one some day.</p>",
+      "tag": "modding",
+      "github": "https://github.com/CrunchyDuck/starboundless_search/",
+      "finished": 0
+    },
+    {
+      "start": [2020, 5, 26],
+      "end": [],
+      "title": "Cheating in Osu!Mania",
+      "content": "<p><iframe src=\"https://www.youtube-nocookie.com/embed/KczUH5BY7LU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<br>\nWell, not me, kinda. I just made something that was capable of it, and used it a few times\n<br>\nI had gotten quite good at Osu!Mania (There's hundreds of hidden videos of my gameplay on my channel - a nightmare to trawl through), but in spite of my skill, there were scores I struggled to accept were real. I suspected that a lot of people were quite good, but just... tweaked it a little bit, unnoticeably, to perfect their scores. To prove it was possible, I did exactly that.\n<br>\nIn the above video I show off that tool doing its replay. I had played and recorded my inputs on the map, and then set a bot replaying that, which worked flawlessly. It would have been trivial to then tweak some of my plays just a little to avoid some misses or get some more perfects - still a human play for the most part, but undetectably improved.</p>",
+      "tag": "programming",
+      "github": "",
+      "finished": 1
+    },
+    {
+      "start": [2020, 6, 19],
+      "end": [],
+      "title": "Gun thingy",
+      "content": "<p><iframe src=\"https://www.youtube-nocookie.com/embed/OwBgUJ5w8BI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>I had played Receiver and enjoyed it, but I wanted more of that intricate gameplay with guns. So, I started to work on something myself.\n<br>\nIt didn't get very far but it was my first experience in 3D, and I made a small, somewhat uncomfortable video about that.</p>",
+      "tag": "gamedev",
+      "github": "",
+      "finished": 0
+    },
+    {
+      "start": [2020, 6, 24],
+      "end": [],
+      "title": "Asteroid",
+      "content": "<p><iframe src=\"https://www.youtube-nocookie.com/embed/TVPgjdoNQwo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<br>\nBased off of the game Asteroids, you take control of a single asteroid trying to survive. The only thing keeping you safe? Your hacking space turret, firing Hack-o-matic space darts, which can take control of enemy ships and allow you a variety of ways of autopiloting them for your goals.\n<br>\nI loved this game idea. It started off as an entry for a game jam at the start of 2019 (You can see it in The start of Gamemaker), before I asked the organizer and they said no it wouldn't fit within the rules. I was grumpy about that. As I worked on it more though, I ran into some large design issues. I struggled especially to add more depth to your engagements with enemy ships. You're just an asteroid, so what can they do besides slowly fly up to you and try to attack? On top of that, I wasn't very experienced with vector mathematics at that time, so I ran into ample trouble, as shown above.\n<br>\n<br>\nBut I still like this idea. I might try my hand at it again, now that I have four years further experience of making this stuff.</p>",
+      "tag": "gamedev",
+      "github": "",
+      "finished": 0
+    },
+    {
+      "start": [2020, 8, 25],
+      "end": [],
+      "title": "SOUP",
+      "content": "<p><iframe src=\"https://www.youtube-nocookie.com/embed/O067fSaQYgA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<br>\nI've mentioned my affinity for a game called Osu!Mania. Well it's not the only one of its kind, there's a game called Step Mania. The maps for either game aren't compatible, and the styles of the maps are quite different. It's refreshing to go from one to the other, but also a bit difficult. I couldn't play in Step Mania like I could in Osu. So, what if I brought the maps over? Thus: The Step-Osu Union Project. S.O.U.P.\n<br>\nI did get it working, but as with many of my projects at this time, I never released it, or advertised it or anything. Really, just the bane of so many of my projects. That code still exist on <a href=\"https://github.com/CrunchyDuck/StepOsu-Union-Project\">Github</a>, and the above video shows it in action.</p>",
+      "tag": "programming",
+      "github": "",
+      "finished": 0
+    },
+    {
+      "start": [2020, 10, 16],
+      "end": [],
+      "title": "Discord Timelapse",
+      "content": "<p><iframe src=\"https://www.youtube-nocookie.com/embed/BA1uO58H828\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\nAnother project that had great emotional importance to me. At this time I had been struggling deeply with loneliness, and that often manifested in just watching people come online and go offline and never saying a word to them. I then came across a <a href=\"https://www.youtube.com/watch?v=y1BzGaz62PE\">song by The Flashbulb</a> that really spoke to that emotion, and I wanted to make something out of that. Thus, a timelapse of that exact thing, put together using a Discord bot and that same code-driven Blender animation I figured out in Pianoplay.\n<br>\nIn the description of the video I'm really not having a good time, but on reflection that project was one of the best things to happen for me. I used it as a way to bring some new friends into a single place, and I started a small community of people who continue to be my friends to this day.</p>",
+      "tag": "programming",
+      "github": "https://github.com/CrunchyDuck/discord-time-lapse",
+      "finished": 1
+    },
+    {
+      "start": [2021, 1, 16],
+      "end": [],
+      "title": "C++ Tetris",
+      "content": "<p><iframe src=\"https://www.youtube-nocookie.com/embed/HcNyuLrHrSs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\nTetris! But made in C++.\n<br>\nI was getting into Tetris, and I was also trying to learn C++ to impress a friend. So I smashed em together and made Tetris in C++. This would end up becoming a staple of how I learn a new language - Tetris is an excellent little game to figure out a languge. It's got graphics, it easily fits into OOP, needs keyboard input and an update loop. Not much to say about it, but I had fun with it.\n<br>\n<iframe src=\"https://www.youtube-nocookie.com/embed/tcfmMF7FK-Q\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe></p>",
+      "tag": "programming",
+      "github": "https://github.com/CrunchyDuck/My-First-Tetris",
+      "finished": 1
+    },
+    {
+      "start": [2021, 1, 23],
+      "end": [2021, 12, 6],
+      "title": "HonkBonk",
+      "content": "<p><a href=\"/static/project_timeline/tictactoe.png\" target=\"_blank\"><img src=\"/static/project_timeline/tictactoe.png\"></a>\n<br>\nAhh, my beloved Discord bot. He was great. Just a pet project for myself and my friends, he hung around in my server being a nightmare. Playing unfair games, harassing people by changing their name, providing search functions for things you should not search for. I put him down because I couldn't think of more ideas on how to have fun with him, and discord's API was changing so much I didn't want to spend the time to keep up. But he was a very important part of my friend group for a while. Maybe I'll bring him back sometime.</p>",
+      "tag": "programming",
+      "github": "https://github.com/CrunchyDuck/HonkBonk",
+      "finished": 1
+    },
+    {
+      "start": [2021, 2, 6],
+      "end": [2021, 2, 22],
+      "title": "Google Foobar",
+      "content": "<p><a href=\"/static/project_timeline/bunny.gif\" target=\"_blank\"><img src=\"/static/project_timeline/bunny.gif\"></a>\n<br>\nFoobar! Maybe you've heard of it, maybe not. Google prompts some people who search programming related keywords to join the Foobar challenge. It's a way that Google hires developers. There are a bunch of challenges that test various programming skills, and if you do well, you might get an interview.\n<br>\nI believe that I did very well for my level of experience. I got through almost all of the challenges, some closer misses than others. There was a nice variety of challenges there, and I really felt like I was being pushed to be better.\n<br>\nOne challenge I remember very well: You're given a maze, a start and an exit, and must find the fastest route through it. But there's a catch: You can remove one wall from the maze to make it faster. When I approached this problem, I was so excited. It was a novel concept, elegant and something I could definitely have encountered in game development. I don't fully remember the process I took to figure this out, just that it starting off using a pathfinding algorithm I had been using in games. When I finally cracked it, I was really impressed with just how efficient the code was.\n<br>\n<br>\nFoobar is generally a bit secretive, but it's been three years now, so I've made my git repo public, letting you you look at the problems I got through, how I solved them, and my little writeup for each.</p>",
+      "tag": "programming",
+      "github": "https://github.com/CrunchyDuck/foobar",
+      "finished": 1
+    },
+    {
+      "start": [2021, 3, 22],
+      "end": [],
+      "title": "Bookbinding",
+      "content": "<p><a href=\"/static/project_timeline/books.jpg\" target=\"_blank\"><img src=\"/static/project_timeline/books.jpg\"></a>\nI bind books sometimes :)\n<br>\nPartly it's creative, partly it's cost saving. Materials, time and an ebook version are almost always cheaper than buying a hardback. I've learned a lot about handling materials from it, from leather to paper to platic to fabrics. I've gotten decent at it, I think, though there's much room for me to improve.</p>",
+      "tag": "misc",
+      "github": "",
+      "finished": -1
+    },
+    {
+      "start": [2021, 6, 15],
+      "end": [],
+      "title": "OwO Stawdew Vawwey",
+      "content": "<p><iframe src=\"https://www.youtube-nocookie.com/embed/IBiT6B3FjAQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<br>\nIt's common for people to make an OwO speech conversion mod for games. I had noticed no one did it for Stardew Valley, so I took it upon myself. Any game with modding capability, I inevitably fall into. And even some without it.\n<br>\nTo do this, I had to use code injection with the Harmony library, something I had some experience with in RimWorld modding, but this was the first time I really started to conquer it. Much with my earlier work, I also hid a bit of myself in this, adding poems and some personal talks hidden in the mod.\n<br>\nThis is also where the quality of my work started to take over the quantity of it. Even more than before, I was not happy releasing something I didn't feel would wow people, and my releases became even less frequent.</p>",
+      "tag": "modding",
+      "github": "https://github.com/CrunchyDuck/OwO-Stawdew-Vawwey",
+      "finished": 1
+    },
+    {
+      "start": [2021, 7, 1],
+      "end": [],
+      "title": "Braille UI",
+      "content": "<p><a href=\"/static/project_timeline/braille.png\" target=\"_blank\"><img src=\"/static/project_timeline/braille.png\"></a>\n<br>\nJust a goofy little program I put together to make it easier to find the Braille symbol you're looking for. A friend of mine used it to make art with. It was my first experience using the QT5 UI library, which I've grown to rely on for the array of dumb desktop apps I make </p>",
+      "tag": "programming",
+      "github": "https://github.com/CrunchyDuck/Braille-UI",
+      "finished": 1
+    },
+    {
+      "start": [2021, 7, 18],
+      "end": [2021, 9, 25],
+      "title": "CDDL",
+      "content": "<p><a href=\"/static/project_timeline/CDDL.png\" target=\"_blank\"><img src=\"/static/project_timeline/CDDL.png\"></a>\n<br>\nA youtube video downloader. They exist online of course but I am never comfortable using them, and downloading a .exe is even worse. So, I searched for an open source command line tool that I could trust, and found PyTube. Command line gets messy if you want anything complex though, so I made a little UI for it.\n<br>\nOriginally I intended for it to be for my friends as well, and it got some use, but really it's just for me now.</p>",
+      "tag": "programming",
+      "github": "https://github.com/CrunchyDuck/CDDL",
+      "finished": 2
+    },
+    {
+      "start": [2021, 8, 2],
+      "end": [],
+      "title": "Terraria AI",
+      "content": "<p>Now here's a fun idea. It's an AI I made to automate playing parts of Terraria. The idea of a Tool Assisted Speedrun of a game like Terraria, that doesn't use premade input but instead parses the information it sees and hears like a human does, has been a fascination of mine for a long time. ATLAS, I called it - Advanced TooL Assisted Speedrun.\n<br>\nThis AI only ever got as far as automating fishing, which I put together because I was grinding to get all the fish in the game. But, it was fun figuring out how to identify sound effects by their waveforms.</p>",
+      "tag": "programming",
+      "github": "https://github.com/CrunchyDuck/Terraria-AI",
+      "finished": 0
+    },
+    {
+      "start": [2021, 11, 3],
+      "end": [2022, 2, 10],
+      "title": "Zteam",
+      "content": "<p><a href=\"/static/project_timeline/zteam.png\" target=\"_blank\"><img src=\"/static/project_timeline/zteam.png\"></a>\n<br>\nA site that allows you to search through your and others' steam libraries with a variety of filters. At the time I made it, Steam's library search functions were lacking.\n<br>\nThis project was my first foray into real web development. I ran my server off of a raspberry pi that a family friend gave me years ago. It taught me a whole tonne about networking, and I had a useable tool that people could actually play with!\n<br>\nI don't use or update it anymore but I keep the <a href=\"/zteam\">site up</a> as a relic. I also did a <a href=\"/writeups/zteam\">writeup</a> on the process of creating it.</p>",
+      "tag": "programming",
+      "github": "",
+      "finished": 1
+    },
+    {
+      "start": [2021, 12, 25],
+      "end": [],
+      "title": "Rhythm combat game",
+      "content": "<p><iframe src=\"https://www.youtube-nocookie.com/embed/bBw6Yyk2Vl4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<br>\nI love rhythm games, and I enjoy combat games. But the only one I could think of that joined these ideas was Crypt Of The Necrodancer. I wanted to change that. I wasn't quite sure how I wanted to go about that though, I sort of just got stuck in. First and foremost, I made an editor to allow me to keyframe events in beat to the song, one I'm quite proud of.\n<br>\nI never finished the game, but it's one I've got in the back of my mind that I may come back to some day. This also defined an important part of how I program AI in C#, that being using IEnumerators to save the \"state\" of an AI easily.</p>",
+      "tag": "gamedev",
+      "github": "",
+      "finished": 0
+    },
+    {
+      "start": [2022, 2, 20],
+      "end": [],
+      "title": "LSB stuffer",
+      "content": "<p>This little thing allows you to hide a message in an image by changing a few bits in the image. It's a cute little kind of steganography. I'm mostly landmarking this because, around about this time I was learning a lot more about cyber security and ethical hacking.</p>",
+      "tag": "programming",
+      "github": "https://github.com/CrunchyDuck/LSB-stuffer",
+      "finished": 1
+    },
+    {
+      "start": [2022, 3, 21],
+      "end": [2022, 5, 6],
+      "title": "Sandshifter",
+      "content": "<p><a href=\"/static/project_timeline/sandshifter.png\" target=\"_blank\"><img src=\"/static/project_timeline/sandshifter.png\"></a>\n<br>\nA text adventure, initially inspired by the first book in the Dune series, and the game Long Live The Queen.\n<br>\nThis little text adventure was a test for me. I always cared a lot about the story of games, but whenever I tried to write something, I felt held back. It was always just theory crafting, \"it would be cool if...\", never actually something that happens. This game was an attempt to rectify that, to actually put my writing to the test, without needing to worry about art or gameplay or anything.\n<br>\nI thought it was... decent, if a bit flawed on execution. It taught me one thing very clearly: Branching stories are very hard to write. It was one of the first \"games\" I made that I could show people, and the feedback was overwhelmingly positive. But still, it was not up to my standards. I kept trying to work on it until I burned out, and so it remains half baked.\n<br>\n<br>\nAlong with the game, I made an interactive map of your choices. This was really me flexing my programming on the web dev side. The game was made with the software Twine, so I took its file structure apart and used it to recreate all of the choices in the game. On top of that, Twine saves your progress, so I could just access that storage to figure out what they've already seen.\n<a href=\"/static/project_timeline/sandshifter_map.png\" target=\"_blank\"><img src=\"/static/project_timeline/sandshifter_map.png\"></a>\n<br>\nThe map I was very proud of, both from a programming perspective and a game design perspective. It solved the issue I often had with branching stories of not knowing what else to try out.\n<br>\nI also did a <a href=\"/writeups/sandshifter\">writeup</a> for this, too.</p>",
+      "tag": "programming",
+      "github": "",
+      "finished": 0
+    },
+    {
+      "start": [2022, 5, 12],
+      "end": [],
+      "title": "AI:TG AI",
+      "content": "<p>Much like with my Terraria AI, I wanted to make something that could play a game using only the same information that a human has access to.\n<br>\nThis one went a little further. AI:TG is a lot of minigames like pressing a button, or fishing, or pong. I made modules that were able to play three of these games, and I was pretty happy with it. I didn't take it further because I was getting tired of the game at this point, but it's an idea I'll likely come back to some day.</p>",
+      "tag": "programming",
+      "github": "https://github.com/CrunchyDuck/DUCCI-AITG",
+      "finished": 0
+    },
+    {
+      "start": [2022, 6, 7],
+      "end": [-1, -1, -1],
+      "title": "False Dream",
+      "content": "<p><iframe src=\"https://www.youtube-nocookie.com/embed/MgczeWvpMyo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<br>\nThe big one. In actuality, this project started a long time ago, back at the start of 2019. I mentioned Deltarune inspired my game development, well, this was the game it inspired. Initially it was just like Deltarune, and I wrote all of my ideas down in a .txt document. That moved to a google drive doc, then to another google doc that was better formatted, and finally, a personal Wiki, which will come up later.\n<br>\nIt has been a very stop-start project, so providing a timeline of it is a lot harder. Really, I should split it up into different entries or eras, but I don't have enough info on previous eras to do that. The time I've chosen is when some of my first github commits started to be made.\n<br>\nIt's gone through many phases, from cutesy rpg to a brutal experience about your limitations, to what it currently is, more a conversation about death and purpose, something often on my mind. This was what I was making that blood fluid dynamics system for, and you can even see it in my repo screenshot during \"The start of Gamemaker\".\n<br>\n<br>\nI don't know when this project will be finished, if it will. I go back and forth on whether I'm really far through it, or barely at the start. Things are not moving at an equal pace everywhere as much of it relies on my own building of talents. It's an ambitious project, maybe too much for one person.\n<br>\nI shan't reveal any of the story at this point, and there's not much gameplay to show off, but here's a couple fun game dev videos I've made in the process.<br>\n<iframe src=\"https://www.youtube-nocookie.com/embed/neXW2k1z21g\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<iframe src=\"https://www.youtube-nocookie.com/embed/bcrwI6Xd-fw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe></p>",
+      "tag": "gamedev",
+      "github": "",
+      "finished": 0
+    },
+    {
+      "start": [2022, 8, 10],
+      "end": [2022, 8, 25],
+      "title": "XCOM review",
+      "content": "<p><iframe src=\"https://www.youtube-nocookie.com/embed/eSUpQX2wR7Y\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<br>\nI've always wanted to make more YouTube videos, but my high standards stop me from releasing much of anything. But one YouTuber has very consistently inspired me: <a href=\"https://youtu.be/AScCVzENcjs\">MandaloreGaming.</a> He makes reviews and has a particular style that gels with me. I've tried my hand at a couple videos, and this one made it quite far. I wrote most of the script, I'd beaten the game, I had lots of notes on how the video could be edited, and I was hopeful it would do well. A cult game without much modern talk.\n<br>\nBut in the process of editing, I just burnt out. By this point I still wasn't any good at managing my expectations and motivation, and instead of stepping back when I felt bad, I pushed in, till anything I held dear about that project burnt up too.\n<br>\nOne of my biggest motivations for making videos is just to share music, really. So many amazing songs, and putting them somewhere people will hear them and might look into them, that motivates me. So I'm doing it <a href=\"https://youtu.be/ygI3MHCmgho?t=66\">here!</a> This was going to be the outro song for my video.</a>",
+      "tag": "misc",
+      "github": "",
+      "finished": 0
+    },
+    {
+      "start": [2022, 10, 18],
+      "end": [2022, 12, 2],
+      "title": "<b>Math!</b>",
+      "content": "<p><a href=\"/static/project_timeline/Math!.png\" target=\"_blank\"><img src=\"/static/project_timeline/Math!.png\"></a>\n<br>\nBack in my old stomping ground, RimWorld modding. This time, I was a much more experienced programmer, and I could finally enact some ideas I had from the past. Math became my mastery of the Harmony library, and the C# language as a whole.\n<br>\n<img src=\"/static/project_timeline/Math!_formula.png\" class=\"float-beside-text-r\">\nThe gist of <b>Math!</b> Is that it allows you to input a mathematical formula into input fields, along with variables related to the game. Using this you could make your crafting recipies respond to things like resource shortages.\n<br>\n<b>Math!</b> was, to me, a great mod, although it never gained the widespread attention of my other simpler ideas. I set up a discord for it at the time, along with a friend, and it was a good experience of managing a small community, and handling pull and feature requests.\nThe mod no longer works because the game is regularly updated, but <a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=2876902608\">this</a> is its old Steam page.</p>",
+      "tag": "modding",
+      "github": "https://github.com/CrunchyDuck/Math",
+      "finished": 1
+    },
+    {
+      "start": [2022, 12, 19],
+      "end": [2023, 1, 7],
+      "title": "Personal wiki",
+      "content": "<p>[note to myself: I can't get a picture of the wiki because I'm in the middle of rewriting my server code. So it's down. I'll get one later, probably.]\n<br>\nOne of my fondest memories as a teen was reading through the Fallout 3 wiki and just imagining what the game was like. I didn't have enough internet to watch videos, so it was all in my mind. I imagined the world beautiful and intricate. Of course, in reality it's a fair bit ugly, but I wouldn't find out for years.\n<br>\nStill, that affinity for wikis stuck with me. It was such a nice way to link everything together. Well, now that I'm trying to be *real* game developer, making a *real* game, why don't I get one?\n<br>\nSo, I did! I hooked up a copy of MediaWiki to my server, stole the art style from the Katana Zero wiki, and started talking to myself about my game. The wiki has been one of the single most important developments for my creative career, I think. It's such a motivational tool, seeing everything slowly coming together and the number and size of pages grow.</p>",
+      "tag": "programming",
+      "github": "",
+      "finished": 2
+    },
+    {
+      "start": [2023, 4, 29],
+      "end": [2023, 5, 9],
+      "title": "Rover game",
+      "content": "<p>Another inspiration, another creation. This time I was inspired by learning about the Mars rovers, and the many technical boundaries NASA had to overcome with them. I loved the idea of being in that role, trying to make this barely suited device explore a hostile planet with awkward technology. I decided that the player would be inside the rover and have a terminal to control it, taking pictures and driving around and that kind of stuff.\n<br>\nI made a whole little operating system and working programming language for the player to interact with, but when it came to something to actually *play*, it faltered. I couldn't quite figure out the gameplay loop, I couldn't figure out how things were going to look, and mostly I couldn't wrangle Unity into doing what I wanted. I wanted fairly detailed vehicle simulation, but Unity has poor support for something like that - you can't even use a cylinder as a collider for wheels, and the actual vehicle control was even more janky.\n<br>\nI have been toying with the idea more as of writing, but not enough to say that it's back, yet.</p>",
+      "tag": "gamedev",
+      "github": "",
+      "finished": 0
+    },
+    {
+      "start": [2023, 5, 9],
+      "end": [],
+      "title": "Tetris TWO",
+      "content": "<p>\n<a href=\"/static/project_timeline/tetris_go_title.png\" target=\"_blank\"><img src=\"/static/project_timeline/tetris_go_title.png\"></a>\n<a href=\"/static/project_timeline/tetris_go.png\" target=\"_blank\"><img src=\"/static/project_timeline/tetris_go.png\"></a>\n<br>\nOh that's right we're back, it's Tetris TWO! This time I used it to learn the language Go, which was a fairly comfortable experience. This version of tetris I went a bit further, with scores, accurate wall kicks, line clear animations and a main menu. Only a few days of work, but a boost of confidence nonetheless.</p>",
+      "tag": "programming",
+      "github": "https://github.com/CrunchyDuck/tetris2",
+      "finished": 1
+    },
+    {
+      "start": [2023, 5, 18],
+      "end": [2023, 5, 31],
+      "title": "Zomboid mods",
+      "content": "<p><a href=\"/static/project_timeline/maps.jpg\" target=\"_blank\"><img src=\"/static/project_timeline/maps.jpg\"></a>\n<br>\nI always feel like I'm returning home, when I mod games. Even though I kinda hate doing it. Not the modding itself, I love that, but dealing with the communities. There's such a demand from people to keep everything updated, to respond to every suggestion, if your mod has a single issue, people often don't bother with it as there are a thousand more.\n<br>\nOh well. I still do it. Anyway, Zomboid! A zombie survival game that's a bit rough on the edges, but I have a soft spot for. At the moment it's had a real comeback from the forgotten wastes it used to be in, and that's inspiring. I released two mods, worked on three.\n<br>\n<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=2980731509\">One</a> tweaked the character creator to give more control over the randomization. The <a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=2980745220\">other</a> added more maps to the game, with the intent that you could replace the kinda cheaty auto map with some more authentic, in-world maps. Neither really gained much attention.\n<br>\nThe <a href=\"https://github.com/CrunchyDuck/PZBetterCrafting\">third</a> was a rework of the crafting system to make it more fluid. I got pretty far on it, but it was also a <i>lot</i> of work. And then as I was finally getting everything working, Zomboid announced an update would soon revamp crafting. Well. At least I learned a new language, Lua. I don't like Lua.</p>",
+      "tag": "modding",
+      "github": "",
+      "finished": 1
+    },
+    {
+      "start": [2023, 6, 19],
+      "end": [],
+      "title": "Kobold statue",
+      "content": "<p><a href=\"/static/project_timeline/kobold_statue.png\" target=\"_blank\"><img src=\"/static/project_timeline/kobold_statue.png\"></a>\n<br>\nlil statue of my kobold character. It came out okay. I want more practice in 3D, especially making characters. Originally, I wanted to 3D print this, but I wasn't happy enough with it.</p>",
+      "tag": "misc",
+      "github": "",
+      "finished": 0
+    },
+    {
+      "start": [2023, 7, 6],
+      "end": [2023, 7, 25],
+      "title": "Printed Rubik's cube",
+      "content": "<p><a href=\"/static/project_timeline/rubiks.jpg\" target=\"_blank\"><img src=\"/static/project_timeline/rubiks.jpg\"></a>\n<br>\nMy partner really likes Rubik's cubes and is always looking for more to add to their collection. I thought a 3D printed one would be a neat addition. There's a model for one online and so I tried putting it together but it didn't work. I modified it a whole bunch, but had a big issue - I didn't have real screws. So I just tried 3D printing screws. Bad idea, the layers just shear straight apart. The cube is thus unusable without breaking it.\n<br>\nBut, I did get some screws eventually, and I at some point have done a little work to modify and reprint things to get it working with them. Some day their collection may include it...</p>",
+      "tag": "misc",
+      "github": "",
+      "finished": 0
+    },
+    {
+      "start": [2023, 7, 9],
+      "end": [2023, 7, 22],
+      "title": "N+++",
+      "content": "<p>N++ is a platformer that's really smooth, one of my favourites. I wanted something that could help it gain popularity, and I felt speedrunners were a good candidate for that. I thought if I could program in ghosts of past runs, and maybe a few testing tools, it could really help the scene.\n<br>\nProblem: N++ has no modding capability. Most moddable games are either made in C#, which is easy to inject code into, or are designed with modding support. N++ is fully compiled C++ code. No entry.\n<br>\nBut... I do know a bit about binary hacking, and I've never had a real chance to try it out. So I did! I got Ghidra running and started figuring out the binary. This project taught me a lot about how binaries are structured, and how binary exploitation can be done. But I wasn't successful. I spent maybe a week trying to figure out how to append data to the binary, then learning Ghidra had poor support for it and trying to do it manually and... It was a mess. An interesting one, but one I didn't feel I should see through right now.</p>",
+      "tag": "programming",
+      "github": "",
+      "finished": 0
+    },
+    {
+      "start": [2023, 9, 19],
+      "end": [],
+      "title": "KitchComp",
+      "content": "<p><a href=\"/static/project_timeline/kitchcomp.png\" target=\"_blank\"><img src=\"/static/project_timeline/kitchcomp.png\"></a>\nI do all of my own cooking and rarely eat out. I also like to keep costs down when buying food. Problem is, I'm not good at following a schedule, and I tend to just buy generalist ingredients that can be used in lots of things. I often found myself forgotten what I had the ingredients for to make. So, how about a little companion that keeps track of my recipes, and also my pantry, making it easy to see what I can cook?\n<br>\nIt's helped me a huge amount, and I'm cooking up an idea for a mobile app to make it even more useful to me. I have no intentions of releasing it, I don't think I'm the guy to make a big tool like this for others.</p>",
+      "tag": "programming",
+      "github": "",
+      "finished": 2
+    },
+    {
+      "start": [2023, 9, 28],
+      "end": [],
+      "title": "Rewind (2)",
+      "content": "<p><iframe src=\"https://www.youtube-nocookie.com/embed/Gpp2nKZmHHI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<br>\nBack in 2019, I had made a replay system under commission but that fell through. Well, I did it again! Except this time it wasn't commission, it was just for a good friend. They're a talented game dev with a lot of promise, and I was happy to lend a hand. It's also the first time I've really worked with another programmer, and it was an enriching experience.</p>",
+      "tag": "programming",
+      "github": "",
+      "finished": 1
+    },
+    {
+      "start": [2023, 11, 24],
+      "end": [2023, 12, 24],
+      "title": "Cathedral 3D print",
+      "content": "<p><a href=\"/static/project_timeline/cathedral.jpg\" target=\"_blank\"><img src=\"/static/project_timeline/cathedral.jpg\"></a>\n<br>\nMy partner's birthday is fairly close to Christmas, and so I wanted to make a gift that would be worth two events. I messed around with some ideas. Learning some songs, making some stained glass art, making a ring. Eventually I landed on the idea of modelling church they go to. Their religion and their community is a big part of them, and their church has been a focus point for them since they joined. I have a 3D printer and I thought it'd be nice to give a replica of that church.\n<br>\nThe process of modelling it was pretty time consuming, a couple of weeks. I only had google street view to go off of (Until, when it was nearly done, the church emailed back saying they'd be happy to give floor plans!). It was fun and I learned a lot, but I was happy it when it was over.\n<br>\nThe printing process was also a nightmare. My printer is prime cheapo, and that showed with just how many failed prints I had [picture]. This also taught me a lot about printer maintenance, and I was also happy when this was over with too!</p>",
+      "tag": "misc",
+      "github": "",
+      "finished": 1
+    },
+    {
+      "start": [2023, 12, 24],
+      "end": [-1, -1, -1],
+      "title": "Photography game",
+      "content": "<p><iframe src=\"https://www.youtube-nocookie.com/embed/2c6RjH2tk8k\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<br>\nSince this was started less than a month ago as of writing, and I've only been free to work on it for about a week during that time, I don't have much to show of it. But I can describe it.\n<br>\nIt's going to be a game about photography, somewhat inspired by Outer Wilds, The Wind Waker, and Dark Chronicle. In with the photography I want to give an interesting world with fun events and a few nice characters. We'll see where the winds of creativity take this.</p>",
+      "tag": "gamedev",
+      "github": "",
+      "finished": 0
+    },
+    {
+      "start": [2024, 1, 20],
+      "end": [2024, 2, 1],
+      "title": "This timeline!",
+      "content": "<p>I enjoy being meta.\n<br>\nI made this timeline for three reasons; One, to help motivate me back into working. Two, to motivate me to remake my website with nicer code. Three, to help me feel less insecure about how little I feel like I've done in my time alive.\n<br>\nIf you're on my website reading it, it worked.</p>",
+      "tag": "programming",
+      "github": "",
+      "finished": 2
+    }
+  ]
+}

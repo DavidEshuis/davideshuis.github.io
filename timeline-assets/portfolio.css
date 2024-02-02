@@ -1,0 +1,173 @@
+.theme1 {
+  /* Default theme, the standard "dark" theme. */
+  --color-primary: #171a21;  /* dark grey w/ hint blue (taken from steam) */
+  --color-complementary: white;  /* A complementary colour to color-primary */
+
+  --text-color: #c7d5e0;  /* grey w/ hint of blue */
+  /* Misc colours that are used for accents on important text, buttons, etc. Should gel well with color-primary */
+  --accent-color-1: #db8020;  /* orange */
+  --accent-color-bad: red;  /* red */
+  --accent-color-links: #4282f7; /* blue */
+  --accent-color-subtitle: #999;
+}
+
+html {
+  background: var(--color-primary);
+  color: var(--text-color);
+  font-size: 1.125rem;
+  font-family: "Motiva Sans", Sans-serif;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+h1,h2,h3 {
+  margin: 0;
+  margin-bottom: 10px;
+  margin-top: 40px;
+}
+
+p {
+  margin: 0;
+  margin-bottom: 1.125rem;
+  width: inherit; /* This makes sure the text aligns to the left if it doesn't fill up the line. */
+}
+
+br {
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+pre {
+  white-space: pre-wrap;
+  font-family: inherit;
+  width: inherit;
+}
+
+a {
+  color: var(--accent-color-links);
+}
+
+img {
+  /*width: 100%;*/
+  width: auto;
+  max-width: 100%;
+  margin-bottom: 1rem;
+}
+
+.arix {
+    color: #4dccff;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+.fancy-quote {
+  margin-bottom: 0;
+  font-family: 'Dancing Script', cursive;
+  font-size: xx-large;
+}
+
+.quotemark {
+    font-size: 2rem;
+    width: 100%;
+    font-weight: bold;
+}
+
+.subtitle_date {
+    font-size: 0.9em;
+    color: var(--accent-color-subtitle);
+    transform: translate(0, -40%);  /* Moves it closer to the title.*/
+}
+
+.page-content {
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+  margin: auto;
+  margin-bottom: 300px;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-highlight-1 {  /* adds some colour to important parts of text */
+  font-weight: bold;
+  color: var(--accent-color-1);
+}
+
+.text-highlight-bad {  /* Used to emphasis things in a bad/evil/etc way. red, basically */
+  font-weight: bold;
+  color: var(--accent-color-bad);
+}
+
+.text-highlight-rainbow {
+  /* Taken from: https://stackoverflow.com/questions/40557461/rainbow-gradient-on-text-in-css */
+  background: linear-gradient(to right, red, orange, yellow, green, cyan, blue, violet); /* Standard syntax (must be last) */
+  background-size: 50%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  animation: text-highlight-rainbow-anim 1s linear infinite;
+}
+
+@keyframes text-highlight-rainbow-anim {
+  0% {
+      background-position: 0%;
+  }
+  100% {
+      background-position: 100%;
+  }
+}
+
+.hidden-link {
+  text-decoration: none;
+  color: var(--text-color);
+}
+
+.hovertext {
+  position: relative;
+  border-bottom: 1px dotted black;
+  text-decoration: underline dotted;
+}
+
+.hovertext:before {
+  content: attr(data-hover);
+  visibility: hidden;
+  opacity: 0;
+  width: 140px;  /* For some reason I can't get it to expand to fit within a range - It wants a consistent width regardless of the text content. */
+  background-color: black;
+  color: var(--text-color);
+  text-align: center;
+  border-radius: 5px;
+  padding: 5px;
+  transition: opacity 0.3s ease-in-out;
+
+  position: absolute;
+  z-index: 1;
+  right: 50%;
+  bottom: 100%;
+  transform: translate(50%, 0%);
+  font-size: medium;
+  font-weight: initial;
+}
+
+.hovertext:hover:before {
+  opacity: 1;
+  visibility: visible;
+}
+
+.float-beside-text-r {
+  float: right;
+  margin-left: 10px;
+  margin-top: 5px;
+  margin-bottom: 3px;
+  max-width: 440px;
+  max-height: 200px;
+}
+
+.float-beside-text-l {
+  float: left;
+  margin-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 3px;
+  max-width: 440px;
+  max-height: 200px;
+}
